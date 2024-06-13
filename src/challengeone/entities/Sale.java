@@ -1,7 +1,5 @@
 package challengeone.entities;
 
-import java.awt.PopupMenu;
-
 public class Sale {
 
 	Integer month;
